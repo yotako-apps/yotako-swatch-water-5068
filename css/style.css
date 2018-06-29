@@ -1,0 +1,34 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.style1 {
+  background-color: #f44156;
+  margin-left: 78px;
+  margin-top: 78px;
+  width: 211px;
+  height: 160px
+}
+.style0 {
+  background-color: #fff;
+  border-left: 2px solid #e2e2e2;
+  border-right: 2px solid #e2e2e2;
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+  position: relative;
+  display: flex;
+  margin-left: 76px;
+  margin-top: 0;
+  width: 213px;
+  height: 95px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style2 {
+  color: #101010;
+  font-family: Lato,serif;
+  font-size: 1.6875em;
+  height: 23px
+}
